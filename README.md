@@ -10,24 +10,6 @@ To use this component, follow these steps:
 1. **Install MetaMask:**
    - Make sure you have the MetaMask extension installed in your browser.
 
-2. **Clone the Repository:**
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
-   ```
-
-3. **Install Dependencies:**
-   ```bash
-   npm install
-   ```
-
-4. **Run the Application:**
-   ```bash
-   npm start
-   ```
-
-   The component will be accessible at `http://localhost:3000` by default.
-
 ## Usage
 
 ### 1. Connect MetaMask Wallet
