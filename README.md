@@ -1,6 +1,4 @@
-Sure, I can help you create a README file for your React component. Here's a basic template:
 
-```markdown
 # Metacrafters ATM React Component
 
 Welcome to the Metacrafters ATM React component! This component allows users to connect their MetaMask wallet, view their account details, check their balance in ETH and PHP, deposit, and withdraw funds.
